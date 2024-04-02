@@ -10,7 +10,7 @@ public class Dog {
 	protected void run() {
 		System.out.println("달려라!");
 	}
-	protect void sleep() {
+	protected void sleep() {
 		System.out.println("잘거야~");
 	}
 }
